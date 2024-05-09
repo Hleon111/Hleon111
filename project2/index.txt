@@ -1,0 +1,4 @@
+3
+BV01,Dinh Xuan Hoang,23,Nam,Hoa Binh
+BV02,Nguyen Thi Yen Nhi,23,Nu,Hung Yen
+BV03,Le Ha Thao Nguyen,35,nu,Ha Noi
